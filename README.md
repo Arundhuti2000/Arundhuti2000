@@ -66,16 +66,23 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 4px;">
   </a>
 </div>
-## 🌟 Fun Facts:
+
+<div>
+  <h1 align="center">🌟 Fun Facts:</h1>
+</div>
+
 - 🎮 Love playing video games in my free time
 - 🎬 Anime Weeb - always up for recommendations!
 
-### 💻 BOOT.DEV Profile
+### 
+
+<h1 align="center">💻 BOOT.DEV Profile</h1>
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/7172d9d6-e81a-41a9-9633-7e40f45e2ab6/thumbnail" >
 </p>
 
-### 🔥 Streak Graph
+### 
+<h1 align="center">🔥 Streak Graph</h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arundhuti2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
