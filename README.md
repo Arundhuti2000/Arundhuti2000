@@ -49,9 +49,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
 </div>
-
-###
-
 <div align="center">
   <a href="https://arundhatidas.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" style="margin: 4px;">
