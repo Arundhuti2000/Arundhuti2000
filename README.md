@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-
+<h1 align="center">⚛ Tech Stack</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -51,21 +51,31 @@
 </div>
 
 ###
-
+<h1 align="center">🌐 Connect with me:</h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://arundhatidas.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" style="margin: 4px;">
+  </a>
+  <a href="https://www.linkedin.com/in/arundhati76/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 4px;">
+  </a>
+  <a href="https://twitter.com/ArundhutiDas2/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" style="margin: 4px;">
+  </a>
+  <a href="https://www.instagram.com/honey2000_/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 4px;">
+  </a>
 </div>
+## 🌟 Fun Facts:
+- 🎮 Love playing video games in my free time
+- 🎬 Anime Weeb - always up for recommendations!
 
-###
+### 💻 BOOT.DEV Profile
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/7172d9d6-e81a-41a9-9633-7e40f45e2ab6/thumbnail" >
 </p>
 
-###
+### 🔥 Streak Graph
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arundhuti2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
