@@ -61,14 +61,13 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arundhuti2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/7172d9d6-e81a-41a9-9633-7e40f45e2ab6/thumbnail" >
 </p>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Arundhuti2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
