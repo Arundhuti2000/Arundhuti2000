@@ -66,14 +66,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 4px;">
   </a>
 </div>
-
-<div>
-  <h1 align="center">🌟 Fun Facts:</h1>
-</div>
-
-- 🎮 Love playing video games in my free time
-- 🎬 Anime Weeb - always up for recommendations!
-
 ### 
 
 <h1 align="center">💻 BOOT.DEV Profile</h1>
