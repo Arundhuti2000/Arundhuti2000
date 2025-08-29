@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-<h1 align="center">⚛ Tech Stack</h1>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -51,7 +51,7 @@
 </div>
 
 ###
-<h1 align="center">🌐 Connect with me:</h1>
+
 <div align="center">
   <a href="https://arundhatidas.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" style="margin: 4px;">
