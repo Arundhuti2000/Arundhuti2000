@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/0e3d3cbf-563b-4cdb-8b7a-75d1af9ad807 height="60" alt="golang logo" />
+  <img src="https://github.com/user-attachments/assets/0e3d3cbf-563b-4cdb-8b7a-75d1af9ad807" height="60" alt="golang logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
   <img width="12" />
