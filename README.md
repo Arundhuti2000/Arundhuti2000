@@ -53,9 +53,7 @@
   
 
 </div>
-<a href="https://github.com/arundhuti2000">
-  <img src="https://komarev.com/ghpvc/?username=arundhuti2000" alt="Profile views" />
-</a>
+
 <div align="center">
   <a href="https://arundhatidas.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" style="margin: 4px;">
@@ -77,7 +75,9 @@
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/7172d9d6-e81a-41a9-9633-7e40f45e2ab6/thumbnail" >
 </p>
-
+<a href="https://github.com/arundhuti2000">
+  <img src="https://komarev.com/ghpvc/?username=arundhuti2000" alt="Profile views" />
+</a>
 ### 
 <h1 align="center">🔥 Streak Graph</h1>
 <div align="center">
